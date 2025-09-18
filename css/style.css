@@ -841,3 +841,14 @@ header nav .form i:hover {
 }
 }
 /*end about info*/
+
+/*start skills*/
+
+.skills {
+    padding: 60px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    background: white;
+    text-align: center;
+}
+/*end skills*/
